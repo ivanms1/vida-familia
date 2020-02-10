@@ -1,0 +1,20 @@
+.Navbar {
+  border-bottom: 1px solid #e8e8e8;
+  background-color: #ffffff;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  position: fixed;
+  align-items: center;
+  z-index: 10;
+}
+
+.Menu {
+  border-bottom: none !important;
+  font-size: 1.2rem !important;
+}
+
+.Logo {
+  height: 70px;
+  width: 80px;
+}

@@ -1,0 +1,114 @@
+.Home {
+  background-image: url('../../assets/home-bg.jpg');
+  background-position: center bottom;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  padding: 5rem;
+}
+
+.Title {
+  font-size: 3.5rem;
+}
+
+.Articles {
+  padding: 5rem;
+}
+
+.ArticlesGrid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Article {
+  width: 400px;
+}
+
+.FormContainer {
+  background-color: #d9d9d9;
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Form > h1 {
+  text-transform: uppercase;
+}
+
+.FormNames {
+  display: flex;
+}
+
+textarea {
+  font-size: 16px !important;
+}
+
+.SendButton {
+  margin-top: 0.2rem;
+}
+
+.HighlightVideo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+
+.HighlightVideo > h1 {
+  text-transform: uppercase;
+}
+
+.Footer {
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: space-between;
+  padding: 5rem;
+}
+
+.FooterParagraph {
+  font-size: 16px;
+  max-width: 520px;
+}
+
+.FooterRight {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.Icons {
+  margin-bottom: 1rem;
+}
+
+.Icons > a {
+  color: #222325;
+}
+
+.Icons > a:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.Icons > a > i > svg {
+  width: 30px;
+  height: 30px;
+}
+
+.FooterLinks {
+  margin-bottom: 1rem;
+}
+
+.FooterLinks > span {
+  cursor: pointer;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+.Copyright {
+  color: #c7c7c7;
+  font-size: 14px;
+  letter-spacing: 0.1rem;
+}
