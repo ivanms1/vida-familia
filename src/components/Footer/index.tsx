@@ -1,7 +1,7 @@
 import React from 'react';
 import { Icon, Divider } from 'antd';
 
-import styles from './Home.module.css';
+import styles from './Footer.module.css';
 
 const Footer = () => {
   return (

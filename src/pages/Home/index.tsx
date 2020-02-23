@@ -3,7 +3,6 @@ import React from 'react';
 import Articles from './Articles';
 import ContactForm from './ContactForm';
 import HighlightVideo from './HighlightVideo';
-import Footer from './Footer';
 
 import styles from './Home.module.css';
 
@@ -16,7 +15,6 @@ const Home = () => {
       <Articles />
       <ContactForm />
       <HighlightVideo />
-      <Footer />
     </React.Fragment>
   );
 };

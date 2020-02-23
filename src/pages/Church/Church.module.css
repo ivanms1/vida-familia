@@ -1,0 +1,16 @@
+.Church {
+  padding: 5rem;
+}
+
+.CarouselPicture {
+  height: 30rem;
+}
+
+.CarouselPicture > img {
+  width: 100%;
+}
+
+.Paragraph {
+  font-size: 1rem;
+  margin-top: 2rem;
+}

@@ -1,0 +1,21 @@
+.Contact {
+  padding: 8rem 5rem;
+}
+
+.Container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Paragraph {
+  font-size: 1rem;
+  width: 40rem;
+}
+
+.Form {
+  width: 40rem;
+}
+
+.NameFields {
+  display: flex;
+}

@@ -1,0 +1,28 @@
+.Blogs {
+  padding: 5rem;
+}
+
+.Bloggers {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Blogger {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 250px;
+}
+
+.Blogger > a > img {
+  border-radius: 6px;
+  box-shadow: 17px 17px 34px #bdbdbd, -17px -17px 34px #ffffff;
+  max-height: 250px;
+  width: 250px;
+}
+
+.Blogger > h2,
+.Blogger > span {
+  margin-top: 1.5rem;
+  text-align: center;
+}
