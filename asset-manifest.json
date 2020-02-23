@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vidayfamilia/static/css/main.59cb0ce5.chunk.css",
+    "main.js": "/vidayfamilia/static/js/main.0b0bb50d.chunk.js",
+    "main.js.map": "/vidayfamilia/static/js/main.0b0bb50d.chunk.js.map",
+    "runtime-main.js": "/vidayfamilia/static/js/runtime-main.ebb28542.js",
+    "runtime-main.js.map": "/vidayfamilia/static/js/runtime-main.ebb28542.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/vidayfamilia/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.ecd76294.chunk.js": "/vidayfamilia/static/js/2.ecd76294.chunk.js",
+    "static/js/2.ecd76294.chunk.js.map": "/vidayfamilia/static/js/2.ecd76294.chunk.js.map",
+    "index.html": "/vidayfamilia/index.html",
+    "precache-manifest.ce38617285a2154fc529e4223fd15761.js": "/vidayfamilia/precache-manifest.ce38617285a2154fc529e4223fd15761.js",
+    "service-worker.js": "/vidayfamilia/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/vidayfamilia/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.59cb0ce5.chunk.css.map": "/vidayfamilia/static/css/main.59cb0ce5.chunk.css.map",
+    "static/js/2.ecd76294.chunk.js.LICENSE.txt": "/vidayfamilia/static/js/2.ecd76294.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/vidayfamilia/static/media/home-bg.6110639c.jpg",
+    "static/media/logo.jpeg": "/vidayfamilia/static/media/logo.5d586fa7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb28542.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.ecd76294.chunk.js",
+    "static/css/main.59cb0ce5.chunk.css",
+    "static/js/main.0b0bb50d.chunk.js"
+  ]
+}
